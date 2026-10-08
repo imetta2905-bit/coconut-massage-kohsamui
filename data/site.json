@@ -1,0 +1,106 @@
+{
+  "site": {
+    "menu_intro": "บริการนวดและสครับของ Coconut Massage",
+    "taxi_title": "Taxi Pick-up & Private Transfer",
+    "taxi_thai": "บริการรับ–ส่ง และเหมารถไปยังสถานที่ต่าง ๆ",
+    "taxi_description": "สามารถจองรถเพื่อเดินทางมาที่ร้าน หรือเดินทางไปยังสถานที่อื่น ๆ บนเกาะสมุยได้",
+    "taxi_note": "ราคาขึ้นอยู่กับจุดรับและจุดหมาย ติดต่อทาง WhatsApp เพื่อสอบถามราคา"
+  },
+  "services": [
+    {
+      "thai": "นวดไทย",
+      "english": "TRADITIONAL THAI MASSAGE",
+      "image": "images/thai-massage.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 350},
+        {"duration": "90 นาที", "price": 500},
+        {"duration": "120 นาที", "price": 700}
+      ]
+    },
+    {
+      "thai": "นวดคอบ่าไหล่",
+      "english": "BACK, NECK & SHOULDER MASSAGE",
+      "image": "images/neck-shoulder.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 400},
+        {"duration": "90 นาที", "price": 550},
+        {"duration": "120 นาที", "price": 700}
+      ]
+    },
+    {
+      "thai": "นวดเท้า",
+      "english": "FOOT MASSAGE",
+      "image": "images/foot-massage.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 350},
+        {"duration": "90 นาที", "price": 500}
+      ]
+    },
+    {
+      "thai": "นวดเท้า + คอบ่าไหล่",
+      "english": "FOOT & SHOULDER MASSAGE",
+      "image": "images/foot-shoulder.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 400},
+        {"duration": "90 นาที", "price": 550}
+      ]
+    },
+    {
+      "thai": "นวดน้ำมันอโรม่า",
+      "english": "AROMATHERAPY OIL MASSAGE",
+      "image": "images/aromatherapy.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 550},
+        {"duration": "90 นาที", "price": 800},
+        {"duration": "120 นาที", "price": 1000}
+      ]
+    },
+    {
+      "thai": "นวดน้ำมันมะพร้าว",
+      "english": "COCONUT OIL MASSAGE",
+      "image": "images/coconut-oil.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 550},
+        {"duration": "90 นาที", "price": 800}
+      ]
+    },
+    {
+      "thai": "สครับผิว",
+      "english": "BODY SCRUB",
+      "image": "images/body-scrub.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 800}
+      ]
+    },
+    {
+      "thai": "สครับผิว + นวดผ่อนคลาย",
+      "english": "BODY SCRUB + RELAX MASSAGE",
+      "image": "images/body-scrub-relax.jpg",
+      "prices": [
+        {"duration": "90 นาที", "price": 1000}
+      ]
+    },
+    {
+      "thai": "สครับเท้า + นวดเท้า",
+      "english": "FOOT SCRUB + FOOT MASSAGE",
+      "image": "images/foot-scrub.jpg",
+      "prices": [
+        {"duration": "60 นาที", "price": 500}
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "english": "Toyota Ventury",
+      "thai": "โตโยต้า เวนจูรี่",
+      "capacity": 10,
+      "image": "images/toyota-ventury.jpg"
+    },
+    {
+      "english": "Mitsubishi Xpander",
+      "thai": "มิตซูบิชิ เอ็กซ์แพนเดอร์",
+      "capacity": 4,
+      "image": "images/mitsubishi-xpander.jpg"
+    }
+  ]
+}
